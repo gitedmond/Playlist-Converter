@@ -1,0 +1,5 @@
+#Import these modules in Command Prompt (Windows) or Terminal (MacOS)
+
+pip install requests
+pip install google-auth-oauthlib
+pip install google-api-python-client
