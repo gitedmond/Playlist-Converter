@@ -27,7 +27,7 @@ Please note that while Spotify offers a vast collection of songs, podcasts, and 
 
 ## **Prerequisites**
 
-Before using this program, you will need to set up your Spotify (see 'spotify_api_token_gen.js') and Google API credentials. Detailed instructions for setting up these credentials can be found in the respective documentation provided with this repository.
+Before using this program, you will need to set up your Spotify (see `spotify_api_token_gen.js`) and Google API credentials. Detailed instructions for setting up these credentials can be found in the respective documentation provided with this repository.
 
 ## **Usage**
 
