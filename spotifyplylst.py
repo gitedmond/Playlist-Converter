@@ -58,8 +58,6 @@ def export_button_click():
             
             # After exporting Spotify tracks, run the YouTube program with these values
             run_youtube_program(youtube_playlist_title, youtube_playlist_description)            
-            # After exporting Spotify tracks, run the YouTube program with these values
-            run_youtube_program(youtube_playlist_title, youtube_playlist_description)
             
 # Function to run the YouTube program
 def run_youtube_program(youtube_playlist_title, youtube_playlist_description):
