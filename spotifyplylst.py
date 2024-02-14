@@ -5,7 +5,7 @@ import requests
 import subprocess
 
 # Replace with your Spotify access token
-access_token = 'BQCW_MvOc2ljNVcK3HzJaJ78BJrraeciK_afKqfui3Gz8sBxj3_ER09aE1BstKH2ptf2tKh4EkwxZWg7AtMhRcH1zkZ_iB8iIr1QAOGXNHdc880Bw7iFPJVMjdyDUVhXGxdMffHEfVwAhEKQ_hTuLdOPcMDOcc5v5vlHFSIt4V4YJiOLcfDYZhBwSSJrA00RvG2t_n75IeB4Scx2p1V3Te7xo7hQ3mCpCVf2DW6rPbozzDGWaS5bWEJ9T8iG9zPSmJQdIVKb7KKQC-0ECa7aW_EOTFkg2u_udoOYLhvuJdZGGiV_l1xmXxvDIOR4TwTfuCn9YM_eFJzC29dU3ERr'
+access_token = 'YOUR_OWN_TOKEN'
 
 # Define the file path for the playlist tracks
 playlist_file = 'C:/Users/sarge/OneDrive/Desktop/converter/playlist_tracks.txt'
