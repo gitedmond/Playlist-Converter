@@ -4,7 +4,7 @@ This Python program offers a solution to convert your Spotify playlists into You
 
 ## **Purpose**
 
-The primary motivation behind developing this program was to address a common challenge faced by us and our peers: the hassle of exchanging playlists between Spotify and YouTube Music. With this tool, you can now effortlessly transfer playlists between these platforms within minutes.
+The primary motivation behind developing this program was to address a problem I and many others likely face: the hassle of exchanging playlists between Spotify and YouTube Music. My friend had the best playlist of all time but it was on YouTube music, weird. It's a good thing I'm a computer scientist and I can streamline every single tedious task in my life with a few lines of code. 
 
 ## **How it Works**
 
